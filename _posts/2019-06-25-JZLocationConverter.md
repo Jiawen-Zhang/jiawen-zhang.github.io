@@ -32,7 +32,7 @@ public func WGS-84ToGCJ-02(_ WGS-84Point:CLLocationCoordinate2D,result:@escaping
 GCJ-02 -> WGS-84
 This method has 1-2 meter error, it should be used with caution
 ```swift
-  public func gcj02ToWgs84(_ gcj02Point:CLLocationCoordinate2D,result:@escaping (_ wgs84Point:CLLocationCoordinate2D) -> Void)
+public func gcj02ToWgs84(_ gcj02Point:CLLocationCoordinate2D,result:@escaping (_ wgs84Point:CLLocationCoordinate2D) -> Void)
 ```  
 
 You need to load the Chinese borderline before using the converter.
