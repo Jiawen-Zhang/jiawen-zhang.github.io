@@ -4,7 +4,7 @@ title:      iOS Coordinate Transform 				# 标题
 subtitle:   JZLocationConverter #副标题
 date:       2019-06-25 				# 时间
 author:     JZ 						# 作者
-header-img: img/apple_map.jpg 	#这篇文章标题背景图片
+header-img: img/ios_map.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - iOS Frameworks
@@ -13,7 +13,7 @@ tags:								#标签
 
 ## The Probelm
 
-Recently, I am developing a iOS App about real-time parking information in my University. I designed a map function in my App; however, when I used CoreLocation to acquire my test-user's location something went wrong. The coordinate that gained from the CoreLocation was different from the user's real location where showed on the map. I had no idea what happened. I double checked my implementation but found nothing wrong, so I started looking for the answer online. After I browsed a bunch of posts, I learned that it was because of my current location. I am in China Mainland right now, and the Chinese government use the different coordinate system from the international standard.
+Recently, I am developing an iOS App about real-time parking information in my University. I designed a map function in my App; however, when I used CLLocation to acquire my test-user's location something went wrong. The coordinate that gained from the CLLocation was different from the user's real location where showed on the map. I had no idea what happened. I double checked my implementation but found nothing wrong, so I started looking for the answer online. After I browsed a bunch of posts, I learned that it was because of my current location. I am in China Mainland right now, and the Chinese government use the different coordinate system from the international standard.
 
 ## How to solve the problem
 
@@ -21,12 +21,12 @@ I chanced upon a framework that design by <a href="https://github.com/JackZhouCn
 
 ## JZLocationConverter
 
-The JZLocationConverter is available in both Object-C and Swift; moreover, it supports Pod which is a simplest way to install frameworks when youa are developing a iOS App.  Here are some interfaces in the JZLocationConverter:  
+The JZLocationConverter is available in both Object-C and Swift; moreover, it supports CocoaPods which is a simplest way to install frameworks when you are developing an iOS App.  Here are some interfaces in the JZLocationConverter:  
 
 WGS-84 -> GCJ-02
 When you input a coordinate outside of China, you stil gain the WGS-84
 ```swift
-public func WGS-84ToGCJ-02(_ WGS-84Point:CLLocationCoordinate2D,result:@escaping (_ GCJ-02Point:CLLocationCoordinate2D) -> Void)
+public func wgs84Togcj02(_ wgs84Point:CLLocationCoordinate2D,result:@escaping (_ gcj02Point:CLLocationCoordinate2D) -> Void)
 ```  
 
 GCJ-02 -> WGS-84
@@ -49,4 +49,4 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     }
 ```  
 
-You can use your custom borderline as well; consult JackZhou's github page for additional information.
+You can use your custom borderline as well; consult <a href="https://github.com/JackZhouCn">JackZhou's github page</a> for additional information.
