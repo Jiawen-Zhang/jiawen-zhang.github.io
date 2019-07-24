@@ -8,7 +8,7 @@ header-img: img/hold_ios_map.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - iOS Frameworks
-    - iOS development
+    - iOS Development
 ---
 
 ## The Probelm
