@@ -5,9 +5,209 @@
     <description>God helps those who help themselves.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 23 May 2019 21:24:54 +0800</pubDate>
-    <lastBuildDate>Thu, 23 May 2019 21:24:54 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Thu, 05 Sep 2019 19:11:28 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2019 19:11:28 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>V Parking - UW Parking Service</title>
+        <description>&lt;h2 id=&quot;what-is-v-parking&quot;&gt;What is V Parking&lt;/h2&gt;
+
+&lt;p&gt;V Parking is aimed at marking parking smart in the University of Waterloo campus.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-i-develop-v-parking&quot;&gt;Why I develop V Parking&lt;/h2&gt;
+
+&lt;p&gt;The reason why I develop this app is that parking in the UW campus always troubles my girl, therefore, I made this app to help anyone who needs to park here.&lt;/p&gt;
+
+&lt;h2 id=&quot;functions-of-the-app&quot;&gt;Functions of the App&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The app shows the real-time status of the four main parking lots by connecting to the UW open data API.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://i.postimg.cc/PqfWZGsS/IMG-D54-EBA09-E73-C-1.jpg&quot; alt=&quot;homepage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to these four parking lots, this app provides the information of Visitor, Meter, Short-term and Motorcycle parking lots.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The information can be viewed on the map by tapping any lot which includes location, restriction, and price.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://i.postimg.cc/CM9s26kK/IMG-37-B9-E3-A82631-1.jpg&quot; alt=&quot;MapView&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You can record the location of your car and set a parking duration.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://i.postimg.cc/6qZnwtnp/IMG-7938-A82-ED155-1.jpg&quot; alt=&quot;RecordLocation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;V Parking will send notifications to you before time up.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://i.postimg.cc/RCJcwQyx/IMG-F55-EAF3-CCC21-1.jpg&quot; alt=&quot;Notifications&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Using the search bar to find the best-matched parking lots to your destination and navigate there; searching for free or daily parking is also available.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://i.postimg.cc/0Ntp0t9P/IMG-CA30012-A9-FC9-1.jpg&quot; alt=&quot;SearchBar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you encounter any problem with parking service, you can contact the UW Parking Services with one touch in the Info page.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://i.postimg.cc/pX8JMYJJ/IMG-62-B967-B8834-F-1.jpg&quot; alt=&quot;InfoPage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to my gril for inspiring me with this idea.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jul 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/07/24/V-Parking/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/24/V-Parking/</guid>
+        
+        <category>iOS Development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Privacy Policy</title>
+        <description>&lt;h1 id=&quot;privacy-policy&quot;&gt;Privacy Policy&lt;/h1&gt;
+
+&lt;p&gt;Built the V Parking app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.&lt;/p&gt;
+
+&lt;p&gt;This page is used to inform visitors regarding my policies with the collection and use of Personal Information if anyone decided to use my Service.&lt;/p&gt;
+
+&lt;p&gt;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing the Service. I will not use or share your information with anyone except as described in this Privacy Policy.&lt;/p&gt;
+
+&lt;p&gt;The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at V Parking unless otherwise defined in this Privacy Policy.&lt;/p&gt;
+
+&lt;h2 id=&quot;information-collection-and-use&quot;&gt;Information Collection and Use&lt;/h2&gt;
+
+&lt;p&gt;For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Location. The information that I request will be retained on your device and is not collected by me in any way.&lt;/p&gt;
+
+&lt;h2 id=&quot;log-data&quot;&gt;Log Data&lt;/h2&gt;
+
+&lt;p&gt;I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.&lt;/p&gt;
+
+&lt;h2 id=&quot;cookies&quot;&gt;Cookies&lt;/h2&gt;
+
+&lt;p&gt;Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.&lt;/p&gt;
+
+&lt;p&gt;This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.&lt;/p&gt;
+
+&lt;h2 id=&quot;security&quot;&gt;Security&lt;/h2&gt;
+
+&lt;p&gt;I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.&lt;/p&gt;
+
+&lt;h2 id=&quot;links-to-other-sites&quot;&gt;Links to Other Sites&lt;/h2&gt;
+
+&lt;p&gt;This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.&lt;/p&gt;
+
+&lt;h2 id=&quot;childrens-privacy&quot;&gt;Children’s Privacy&lt;/h2&gt;
+
+&lt;p&gt;These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Changes to This Privacy Policy
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.&lt;/p&gt;
+
+&lt;h2 id=&quot;contact-us&quot;&gt;Contact Us&lt;/h2&gt;
+
+&lt;p&gt;If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at jzdevelopments@gmail.com.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/07/12/Privacy_Policy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/12/Privacy_Policy/</guid>
+        
+        <category>Privacy</category>
+        
+        <category>iOS Development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>iOS Coordinate Transform</title>
+        <description>&lt;h2 id=&quot;the-probelm&quot;&gt;The Probelm&lt;/h2&gt;
+
+&lt;p&gt;Recently, I am developing an iOS App about real-time parking information in my University. I designed a map function in my App; however, when I used CLLocation to acquire my test-user’s location something went wrong. The coordinate that gained from the CLLocation was different from the user’s real location where showed on the map. I had no idea what happened. I double checked my implementation but found nothing wrong, so I started looking for the answer online. After I browsed a bunch of posts, I learned that it was because of my current location. I am in China Mainland right now, and the Chinese government use the different coordinate system from the international standard.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-solve-the-problem&quot;&gt;How to solve the problem&lt;/h2&gt;
+
+&lt;p&gt;I chanced upon a framework that design by &lt;a href=&quot;https://github.com/JackZhouCn&quot;&gt;Jack Zhou&lt;/a&gt; named &lt;a href=&quot;https://github.com/JackZhouCn/JZLocationConverter&quot;&gt;JZLocationConverter&lt;/a&gt;. He has designed a algorithm that could convert the WGS-84 coordinate into GCJ-02 coordinate and vice versa. This framework is available in both Object-C and Swift. This is not a perfect solution to the coordinate problem but you could get the approximate real location after the data processed by the converter.&lt;/p&gt;
+
+&lt;h2 id=&quot;jzlocationconverter&quot;&gt;JZLocationConverter&lt;/h2&gt;
+
+&lt;p&gt;The JZLocationConverter is available in both Object-C and Swift; moreover, it supports CocoaPods which is a simplest way to install frameworks when you are developing an iOS App.  Here are some interfaces in the JZLocationConverter:&lt;/p&gt;
+
+&lt;p&gt;WGS-84 -&amp;gt; GCJ-02
+When you input a coordinate outside of China, you stil gain the WGS-84&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;wgs84Togcj02&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;wgs84Point&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;CLLocationCoordinate2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;@escaping&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;gcj02Point&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;CLLocationCoordinate2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;GCJ-02 -&amp;gt; WGS-84
+This method has 1-2 meter error, it should be used with caution&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;gcj02ToWgs84&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;gcj02Point&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;CLLocationCoordinate2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;@escaping&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;wgs84Point&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;CLLocationCoordinate2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You need to load the Chinese borderline before using the converter.&lt;/p&gt;
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;UIApplication&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;didFinishLaunchingWithOptions&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;launchOptions&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;UIApplicationLaunchOptionsKey&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Any&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]?)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Bool&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;JZLocationConverter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;error&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;nil&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;失败&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;成功&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can use your custom borderline as well; consult &lt;a href=&quot;https://github.com/JackZhouCn&quot;&gt;JackZhou’s github page&lt;/a&gt; for additional information.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/06/25/JZLocationConverter/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/25/JZLocationConverter/</guid>
+        
+        <category>iOS Frameworks</category>
+        
+        <category>iOS Development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Updating Xcode 10.2.1</title>
+        <description>&lt;h2 id=&quot;what-happened&quot;&gt;What Happened?&lt;/h2&gt;
+&lt;p&gt;I have done the Map Scene for my UWParking App this morning, testing the App on the simulator became more difficult than before; as a result, I would like to use my iPhone X to do the test job. The versin of Xcode that I was using is 10.1; however, I had updated my iPhone to 12.3.1 few days ago, so the Xcode didn’t support this behavior. I have no choice but update my Xcode to 10.2.1 which I really didn’t want. After the software had been updated, something terrible happened. One of the frameworks that I am using which was provided by &lt;a href=&quot;https://github.com/meteochu&quot;&gt;Andy Liang&lt;/a&gt; named &lt;a href=&quot;https://github.com/meteochu/WatSwift&quot;&gt;WatSwift&lt;/a&gt; isn’t supported by the latest version of Xcode. As a result, I have to rollback to the Xcode 10.1. Moreover, it is raining cats and dogs outside but I wear a pair of white shoes today. What a “good” today. Nevertheless, today is not all bad, I found that &lt;a href=&quot;https://www.jianshu.com/&quot;&gt;jianshu&lt;/a&gt; have recovered the image loading which helps us for developing beacause there are a lot of guides in CS field.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/06/10/Xcode_Update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/10/Xcode_Update/</guid>
+        
+        <category>Software</category>
+        
+        <category>Life</category>
+        
+        <category>Xcode</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The New iPad OS</title>
+        <description>&lt;h2 id=&quot;ios&quot;&gt;iOS&lt;/h2&gt;
+
+&lt;p&gt;Apple is splitting iOS into two seperate operating systems; one for the iPhone which called iOS and a new one that running on the iPad called iPad OS. iOS 13 makes the Face ID unlock 30% faster than what it did; the lanuch speed of the Apps will doubled; at the same time, the volumes of Apps are half as much as before. In ad dition to the performance improvement, a new dark mode will be added which gives OS menus and Apps a dark background. On the privacy aspect, a new feature “Sign in with Apple” was announced to give users greater contorl over the data they share with Apps. With “Sign in with Apple”, users can choose to share their real email address or send a automatically generated address that forwards to their email address if any App ask the users to share their email address. Rely on the timeneuraltext-to-speech technology, Siri can transfer the text into the voice message then reply to the user; moreover, the tone of voice of Siri become more smoother.&lt;/p&gt;
+
+&lt;h2 id=&quot;ipad-os&quot;&gt;iPad OS&lt;/h2&gt;
+
+&lt;p&gt;Comparing with the iOS 13, the changes for the new iPad OS is more attractive. The new iPad OS is a multitasking OS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you would like to open an App, just slide your finger from the side.&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://postimg.cc/xc49J65Q&quot;&gt;&lt;img src=&quot;https://i.postimg.cc/139XdTN8/i-Pad-OS-side-slide.gif&quot; alt=&quot;i-Pad-OS-side-slide.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drag the App then you could switch from several recent Apps.&lt;/strong&gt;
+&lt;a href=&quot;https://postimg.cc/gr773QCg&quot;&gt;&lt;img src=&quot;https://i.postimg.cc/hP4qRqpR/i-Pad-OS-multitasking.gif&quot; alt=&quot;i-Pad-OS-multitasking.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;These new gestures are cool right? However, my favorite new feature is the new “Copy-Paste”. You can use three fingers to copy and paste your text which likes magic.&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://postimg.cc/Lh7yJWw2&quot;&gt;&lt;img src=&quot;https://i.postimg.cc/TY2B4McL/i-Pad-OS-copy-paste.gif&quot; alt=&quot;i-Pad-OS-copy-paste.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Moreover, you can use your iPad as the second screen of your MAC. Currently the only way you can realize this function is use the third party App like Duet. After Apple announced the new feature, I am worrying about the future of the companys like Duet.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/06/04/iPad_OS/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/04/iPad_OS/</guid>
+        
+        <category>WWDC</category>
+        
+        <category>iPad</category>
+        
+        <category>Privacy</category>
+        
+        
+      </item>
     
       <item>
         <title>Patient Privacy Disclosure</title>
@@ -57,10 +257,12 @@ More than that, it is not just a threat to individuals’ privacy and confidenti
 &lt;p&gt;[5] http://www.privacy-regulation.eu/en/article-32-security-of-processing-GDPR.htm&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Feb 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/02/20/Hotline-1177/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/20/Hotline-1177/</guid>
+        <link>http://localhost:4000/2019/02/20/Hotline_1177/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/20/Hotline_1177/</guid>
         
         <category>Security</category>
+        
+        <category>Privacy</category>
         
         
       </item>
